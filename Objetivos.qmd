@@ -1,0 +1,12 @@
+# Objetivo general y específicos
+
+**Objetivo General:** Comprender y comunicar conceptos fundamentales del diseño de software, enfocándose en el análisis y descripción de patrones, su propósito y su aplicación, como parte del proceso de diseño orientado a la calidad del software.
+
+**Objetivos Específicos:**
+
+- Identificar y describir patrones de diseño comunes utilizados en el desarrollo de software.
+- Analizar el propósito, los beneficios y el contexto de uso de diferentes patrones de diseño.
+- Investigar y comunicar el estado del arte sobre patrones de diseño, utilizando fuentes actualizadas y confiables.
+- Estructurar un documento técnico claro y coherente, empleando herramientas como Quarto para su presentación formal.
+
+\newpage

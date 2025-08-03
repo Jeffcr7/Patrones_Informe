@@ -1,0 +1,35 @@
+::: {.titlepage data-latex=""}
+:::: {.centering data-latex=""}
+::::: {.Large data-latex=""}
+
+\vspace*{3cm}
+
+**Artículo - Patrones de diseño del software**
+
+\vfill
+
+**Presentado por:** \n
+Jeffry Varela Barrantes
+\n
+Carlos Villafuerte Díaz
+\n
+Duvan Vásquez López
+
+\vfill
+
+
+**Universidad Cenfotec**
+
+![](img/image.png){width="4cm"}
+
+
+\vfill
+
+**Fecha:**
+30 de Julio de 2025
+
+\vspace*{6cm}
+
+:::::
+::::
+:::

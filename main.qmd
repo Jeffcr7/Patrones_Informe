@@ -1,0 +1,26 @@
+---
+format: 
+    pdf:
+        documentclass: article
+        papersize: "letter"
+        mainfont: Arial
+        fontsize: 11pt
+        linestretch: 1.5
+        include-in-header: header.tex
+bibliography: referencias.bib
+csl: apa.csl
+---
+
+{{< include /Portada.qmd >}}
+
+{{< include /Objetivos.qmd >}}
+
+{{< include /EstadoArte.qmd >}}
+
+{{< include /Conclusiones.qmd >}}
+
+\newpage
+
+# Referencias
+::: {#refs}
+:::
