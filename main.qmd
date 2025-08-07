@@ -13,6 +13,10 @@ csl: apa.csl
 
 {{< include /Portada.qmd >}}
 
+\newpage
+\tableofcontents
+\newpage
+
 {{< include /Objetivos.qmd >}}
 
 {{< include /EstadoArte.qmd >}}

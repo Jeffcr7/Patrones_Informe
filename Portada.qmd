@@ -2,17 +2,16 @@
 :::: {.centering data-latex=""}
 ::::: {.Large data-latex=""}
 
-\vspace*{3cm}
-
 **Artículo - Patrones de diseño del software**
 
 \vfill
 
-**Presentado por:** \n
+**Presentado por:**
+
 Jeffry Varela Barrantes
-\n
+
 Carlos Villafuerte Díaz
-\n
+
 Duvan Vásquez López
 
 \vfill
@@ -26,9 +25,9 @@ Duvan Vásquez López
 \vfill
 
 **Fecha:**
-30 de Julio de 2025
+1 de Agosto de 2025
 
-\vspace*{6cm}
+\vspace*{4cm}
 
 :::::
 ::::
